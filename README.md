@@ -12,4 +12,4 @@ pip install -r requirements.txt
 
 ## Additional Resources
 
-For a detailed walkthrough, check out the article on Medium: [Understanding Linear Regression](https://medium.com/p/ddf261033d4a/edit)
+For a detailed walkthrough, check out the article on Medium: [Understanding Linear Regression](https://medium.com/@jjosuefong/notas-para-construir-e-interpretar-una-regresi%C3%B3n-lineal-en-python-paso-a-paso-ddf261033d4a)
